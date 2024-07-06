@@ -1,6 +1,1 @@
-<configs>
-	<append xpath="/xui/ruleset/window_group[@name='ingameMenu']" >
-			<window name="newsScreenTEST" />
 
-	</append>
-</configs>
